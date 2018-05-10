@@ -1,0 +1,23 @@
+
+body{
+    background: aqua;
+    height: 100vh;
+}
+#animal{
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+    color: red;
+}
+#dog{
+   font-size: 10vh;
+   line-height: 100vh;
+}
+div {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 1vh;
+    width: 22vw;
+    height: 30vh;
+    background-color: #fff;
+}
