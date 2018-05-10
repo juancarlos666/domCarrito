@@ -21,3 +21,12 @@ div {
     height: 30vh;
     background-color: #fff;
 }
+
+
+.nav-pills .show>.nav-link{
+    background-color: red;
+}
+
+color{
+    background: aqua;
+}
